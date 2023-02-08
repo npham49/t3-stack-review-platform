@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <main className="to-primary-accent flex min-h-screen flex-col bg-gradient-to-b from-primary pt-28">
         <div className="container">
           <div className="flex flex-col items-center justify-center gap-4">
-            <h1 className="text-6xl font-bold text-white">List of items</h1>
+            <h1 className="text-6xl font-bold text-white">New items</h1>
             <p className="text-center text-2xl text-white"></p>
           </div>
         </div>
